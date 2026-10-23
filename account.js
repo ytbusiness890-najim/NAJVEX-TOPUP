@@ -1,17 +1,17 @@
 // =======================================================
-// WEBSITE NAME (NICKNAME)
+// WEBSITE NAME (NAJVEX TOPUP)
 // =======================================================
-var website_name = "YASIN";
+var website_name = najim";
 
 // =======================================================
-// TELEGRAM CHANNEL LINK
+// TELEGRAM CHANNEL LINK 
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = "https://t.me/+Mc4ODRsQLnhmOTBl";
 
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "telegram group link";
+var telegram_group_link = "https://t.me/+Mc4ODRsQLnhmOTBl";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
